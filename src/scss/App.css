@@ -1,4 +1,5 @@
 .navbar {
+    position: fixed;
     float: top;
     color: #f2f2f2;
     text-align: center;
@@ -14,6 +15,7 @@
 
 /* Style the links inside the navigation bar */
 .navbar a {
+    position: fixed;
     float: top;
     color: #f2f2f2;
     text-align: center;
